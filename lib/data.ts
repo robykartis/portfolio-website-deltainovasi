@@ -3,9 +3,13 @@ import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
+import roby from "@/public/roby.jpg"
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 
+type PropsImg = {
+  imageUrl: string
+}
 export const links = [
   {
     name: "Home",
@@ -35,12 +39,13 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "S1 Sistem Kompter",
+    location: "Pekanbaru",
     description:
       "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
     icon: React.createElement(LuGraduationCap),
     date: "2019",
+    imageUrl: roby
   },
   {
     title: "Front-End Developer",
