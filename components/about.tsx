@@ -19,30 +19,20 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
-      </p>
-
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        Setelah lulus dengan gelar S.Kom Jurusan System Komputer di Universitas
+        Putra Indonesia YPTK Padang , saya memutuskan untuk mengejar passion
+        saya dalam pemrograman. Saya melamar pekerjaan di jakarta di bidang
+        komputer selama 2 tahun dan belajar pengembangan web full-stack. Bagian
+        favorit saya dari pemrograman adalah aspek pemecahan masalah. Saya
+        sangat menyukai perasaan ketika akhirnya menemukan solusi untuk sebuah
+        masalah. Teknologi yang menjadi inti dalam stack saya adalah React,
+        Next.js, Node.js, dan PHP (Laravel). Saya juga familiar dengan
+        TypeScript dan Javascript. Saya selalu ingin mempelajari teknologi baru.
+        Saat ini, saya sedang mencari posisi sebagai pengembang perangkat lunak
+        (software developer) dalam waktu penuh. Ketika saya tidak sedang coding,
+        saya menikmati bermain video game, menonton film, Saya juga senang
+        belajar hal-hal baru. Saat ini, saya sedang belajar tentang sejarah dan
+        filsafat. Saya juga sedang belajar bermain gitar.
       </p>
     </motion.section>
   );
