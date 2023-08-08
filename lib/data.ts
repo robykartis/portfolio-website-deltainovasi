@@ -44,7 +44,7 @@ export const experiencesData = [
     description:
       "Saya berhasil menyelesaikan pendidikan S1 di bidang Ilmu Komputer dengan prestasi yang memuaskan. Selama studi, saya telah mendalami berbagai aspek ilmu komputer seperti pemrograman, basis data, kecerdasan buatan, dan jaringan komputer. ",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2018",
     imageUrl: roby
   },
   {
@@ -53,7 +53,7 @@ export const experiencesData = [
     description:
       "Sebagai IT Support, tugas saya adalah memberikan dukungan teknis dan solusi atas masalah perangkat keras, perangkat lunak, dan jaringan komputer kepada pengguna di lingkungan kerja. Saya bertanggung jawab untuk memastikan sistem teknologi berfungsi dengan baik, mengatasi gangguan, memberikan bantuan dalam penggunaan aplikasi, serta melakukan pemeliharaan dan pemecahan masalah secara efisien. Saya juga berinteraksi dengan pengguna dengan sopan dan responsif untuk memastikan kepuasan dan produktivitas mereka dalam menggunakan teknologi informasi.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2020",
+    date: "2018 - 2019",
   },
   {
     title: "IT SUPPORT PT GRAHA KARYA JAKARTA",
@@ -116,6 +116,7 @@ export const projectsData = [
 export const skillsData = [
   "HTML",
   "Laravel",
+  "REST API",
   "Codeigniter",
   "CSS",
   "JavaScript",

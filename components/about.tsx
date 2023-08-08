@@ -28,8 +28,7 @@ export default function About() {
         masalah. Teknologi yang menjadi inti dalam stack saya adalah React,
         Next.js, Node.js, dan PHP (Laravel). Saya juga familiar dengan
         TypeScript dan Javascript. Saya selalu ingin mempelajari teknologi baru.
-        Saat ini, saya sedang mencari posisi sebagai pengembang perangkat lunak
-        (software developer) dalam waktu penuh. Ketika saya tidak sedang coding,
+        Saat ini, Ketika saya tidak sedang coding,
         saya menikmati bermain video game, menonton film, Saya juga senang
         belajar hal-hal baru. Saat ini, saya sedang belajar tentang sejarah dan
         filsafat. Saya juga sedang belajar bermain gitar.
