@@ -6,12 +6,29 @@ import Footer from "@/components/footer";
 import ThemeSwitch from "@/components/theme-switch";
 import ThemeContextProvider from "@/context/theme-context";
 import { Toaster } from "react-hot-toast";
+import { openGraphImage } from "@/meta-data/shared-metadata";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Roby Karti S | Personal Portfolio",
   description: "Roby  is a full-stack developer with 5 years of experience.",
+  siteName: "Roby Karti S | Personal Portfolio",
+  openGraph: {
+    ...openGraphImage,
+    title: "Roby Karti S | Personal Portfolio",
+  },
+  locale: "id_ID",
+  type: "portofolio",
+  authors: ["Roby Karti S"],
+  verification: {
+    google: "google",
+    yandex: "yandex",
+    yahoo: "yahoo",
+    other: {
+      me: ["robykarti.s@gmail.com", "https://roby.deltainovasi.com"],
+    },
+  },
 };
 
 export default function RootLayout({
