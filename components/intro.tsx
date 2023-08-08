@@ -121,6 +121,7 @@ export default function Intro() {
         >
           <AiFillInstagram />
         </a>
+
       </motion.div>
     </section>
   );
